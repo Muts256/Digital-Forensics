@@ -3,7 +3,7 @@
 <h2>👨‍💻 Digital Forensic Investigation Project:</h2>
 
 - <b> Digital Forensic Report (Junior Digital Analyst)</b>
-  - [Report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Report](https://github.com/Muts256/Digital-Forensics)
   
 
 
