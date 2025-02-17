@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Digital Forensic Investigation Project:</h2>
 
-- <b> Digital Forensic Report (Junior Digital Analyst)</b>
+- <b> Digital Forensic Report</b>
   - [Report](https://github.com/Muts256/Digital-Forensics)
   
 
