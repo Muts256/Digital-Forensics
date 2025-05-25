@@ -5,7 +5,8 @@
 - <b> Digital Forensic Report</b>
   - [Report](https://github.com/Muts256/Digital-Forensics) :
 
-    This
+    Objective:
+    To enhance the analyst's practical skills in network traffic analysis by guiding them through investigating a captured packet file (.pcap) using Wireshark.
 
 
 <h2> 🤳 Connect with me:</h2>
