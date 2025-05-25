@@ -6,7 +6,10 @@
   - [Report](https://github.com/Muts256/Digital-Forensics) :
 
     Objective:
-    - To enhance the analyst's practical skills in network traffic analysis by guiding them through investigating a captured packet file (.pcap) using Wireshark.
+    - To enhance the analyst's practical skills in network traffic analysis by investigating a captured packet file (.pcap) using Wireshark.
+    - Extract artifacts to be presented as evidence
+    - Observe the Chain of custody rules
+    - Document findings
 
 
 <h2> 🤳 Connect with me:</h2>
