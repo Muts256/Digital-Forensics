@@ -9,7 +9,7 @@
     - To enhance the analyst's practical skills in network traffic analysis by investigating a captured packet file (.pcap) using Wireshark.
     - Extract artifacts to be presented as evidence
     - Observe the Chain of custody rules
-    - Document findings
+    - Document findings see pdf above
 
 
 <h2> 🤳 Connect with me:</h2>
